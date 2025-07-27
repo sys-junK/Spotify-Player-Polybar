@@ -1,2 +1,3 @@
 # Spotify-Player-Polybar
-Spotify Player in Polybar
+
+Make sure you have playerctl installed in your Linux.
